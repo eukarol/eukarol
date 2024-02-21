@@ -31,10 +31,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis]()
-- [Google Data Studio - COVID-19 Interactive Dashboard]()
-- [SQL - Querying and analyzing data with AWS Athena]()
-- [WEB - Registration and query system]()
+- [Python]()
+- [Google Data Studio]()
+- [SQL]()
+- [WEB]()
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
