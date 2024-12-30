@@ -1,100 +1,107 @@
-<!-- Título -->
+<!-- Título com Animação -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello, World!</h1></summary>
+    <summary><h1 style="display: inline-block">🚀 Olá, Mundo! 🌍</h1></summary>
+  </ul>
 </div>
 
 <!-- Apresentação -->
-<p>
-  Hi 👋, My name is Karol Araújo! A passionate developer from Brazil.  
-
-  - 🎓 I’m currently studying Computer Engineering at UFRPE.  
-  - 💼 I develop systems for Araujo Desenvolvimento & Soluções de Software.  
-  - 🔭 I work on impactful projects involving AI, automation, and full-stack development.  
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVrOTRwZzZqcG0zcnFkNmIxMHRvdG8zaTBxejdpZWlkcWtkOGg5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="400" />
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👩‍💻 More about me</summary>
+<p align="center">
+  👋 Olá! Meu nome é <strong>Karol Araújo</strong>, apaixonada por tecnologia, inovação e soluções criativas!<br>
+  🎓 Estudante de Engenharia da Computação no <strong>8º período</strong> na UFRPE.<br>
+  💼 Desenvolvedora na Startup <strong>BomcomTech - Desenvolvimento & Soluções de Software</strong>.
+</p>
 
-  - 🧠 I'm in the 8th semester of Computer Engineering and have experience with Python, JavaScript, and Haskell.  
-  - 💡 I am passionate about AI, web development, and creating efficient solutions for complex problems.  
-  - ⚡ I enjoy reading, listening to true crime podcasts, and playing futsal. These hobbies help me think creatively and solve problems effectively.  
+---
+
+<!-- Projetos -->
+<h2 align="center">📌 Projetos em Destaque</h2>
+
+- **Accident Detection System 🚦**
+  - Participante do projeto de startups do Sebrae.
+  - Detecta acidentes de trânsito usando IA em câmeras de segurança para chamar socorro mais rapidamente.
+
+- **UabjLoc 🚌**
+  - Rastreia transportes da universidade e envia notificações automáticas via Telegram usando IA.
+
+- **CAPA 🌊**
+  - Projeto financiado pela FACEPE.
+  - Um app web e mobile para monitorar o índice de qualidade da água da Compesa.
+
+---
+
+<!-- Dropdown com mais informações -->
+<details>
+  <summary>🔍 Mais sobre mim</summary>
+
+  - 🎂 Tenho 22 anos e moro no Brasil.
+  - 📖 Gosto de ler livros, HQs e ouvir podcasts sobre crimes reais. 
+  - ⚽ Apaixonada por futebol de salão e problemas desafiadores, acredito que hobbies são fundamentais para soluções criativas.
 </details>
 
 ---
 
-<!-- Portfólio -->
-## 💼 Portfolio:  
+<!-- Habilidades -->
+<h2 align="center">🚀 Minhas Habilidades</h2>
 
-<h1 align="center">Projects - Karol Araújo 💻</h1>
+<div align="center">
+  <h3>🛠️ Linguagens</h3>
+  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Haskell" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+</div>
 
-### **Accident Detection System**  
-🚦 A project supported by SEBRAE to detect traffic accidents using AI integrated into surveillance cameras.  
-- **Stack:** Python, TensorFlow, OpenCV.  
-- **Highlights:** Automates emergency alerts to reduce response times.  
+<div align="center">
+  <h3>⚙️ Ferramentas</h3>
+  <img alt="VS Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+</div>
 
-### **UabjLoc**  
-📍 A system to track university transport and send notifications to Telegram bots.  
-- **Stack:** Node.js, Telegram Bot API, JavaScript.  
-- **Highlights:** Enhances real-time communication for students.  
-
-### **CAPA (Water Quality Monitoring)**  
-💧 A web and mobile app funded by FACEPE for monitoring water quality indices.  
-- **Stack:** React, Python, PostgreSQL, IoT.  
-- **Highlights:** Real-time data collection and visualization for better decision-making.  
-
-### **LinguaTech Chatbot**  
-🤖 A chatbot for translating and contextualizing technical terms in engineering.  
-- **Stack:** Node.js, Tailwind CSS, ChatGPT API.  
-- **Highlights:** Personalized assistance for academic needs.
+<div align="center">
+  <h3>📚 Bibliotecas & Frameworks</h3>
+  <img alt="TensorFlow" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+  <img alt="Flask" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+  <img alt="Numpy" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img alt="Pandas" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+</div>
 
 ---
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kxaraujo.dev/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karolyna-araújo-31a327260/)  
+<h2 align="center">🌐 Conecte-se comigo</h2>
+<p align="center">
+  <a href="https://www.instagram.com/eukarol.dev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/karolyna-araújo-31a327260/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
-## 🔥 Skills  
+<!-- GitHub Stats -->
+<h2 align="center">📊 Minhas Estatísticas</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eukarol&show_icons=true&theme=radical" alt="Karol's GitHub stats">
+</p>
 
-<!-- Skills: Programming Languages -->
-### Programming Languages  
-<div style="flex-basis: 48%;">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-
----
-
-<!-- Skills: Tools & Frameworks -->
-### Tools & Frameworks  
-<div style="flex-basis: 48%;">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
-
----
-
-<!-- Skills: Libraries -->
-### Libraries  
-<div style="flex-basis: 48%;">
-  <img align="center" alt="TensorFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</div>
-
----
-
-<!-- GithubStats -->
-![Karol's GitHub stats](https://github-readme-stats.vercel.app/api?username=eukarol&show_icons=true&theme=gotham)  
+<!-- Snake Game -->
+<h2 align="center">🐍 Commits Animados</h2>
+<p align="center">
+  <img src="https://github.com/eukarol/eukarol/blob/output/snake.svg" alt="Snake animation">
+</p>
 
 ---
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/eukarol/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/eukarol/count.svg?" alt="Profile Views">
 </div>
