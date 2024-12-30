@@ -93,13 +93,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eukarol&show_icons=true&theme=radical" alt="Karol's GitHub stats">
 </p>
 
-<!-- Snake Game -->
-<h2 align="center">🐍 Commits Animados</h2>
-<p align="center">
-  <img src="https://github.com/eukarol/eukarol/blob/output/snake.svg" alt="Snake animation">
-</p>
-
----
 
 <!-- Profile Views -->
 <div align="center">
