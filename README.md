@@ -13,7 +13,6 @@
 <p align="center">
   👋 Olá! Meu nome é <strong>Karol Araújo</strong>, apaixonada por tecnologia, inovação e soluções criativas!<br>
   🎓 Estudante de Engenharia da Computação no <strong>8º período</strong> na UFRPE.<br>
-  💼 Desenvolvedora na Startup <strong>BejotaTech - Desenvolvimento & Soluções de Software</strong>.
 </p>
 
 ---
